@@ -32,7 +32,6 @@ A Flutter application demonstrating:
 
 ---
 
-## Test Coverage
 
 This project includes both **widget tests** and **BLoC unit tests**:
 
