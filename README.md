@@ -63,7 +63,7 @@ flutter run
 API Details
 
 Send Money (POST):
-This uses a fake/mock API (e.g., https://jsonplaceholder.typicode.com/) to simulate a money transfer.
+This uses a fake to simulate a money transfer.
 
 Transaction History (GET):
 Since the fake API does not return actual transactions, a mock list of users is used to simulate a transaction history view.
