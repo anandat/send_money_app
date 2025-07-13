@@ -65,12 +65,10 @@ dio – for HTTP requests
 bloc_test – for BLoC testing
 
 ## ScreenShots 
-![Screenshot 2025-07-13 at 12.51.48 PM.png](..%2F..%2FDesktop%2FScreenshot%202025-07-13%20at%2012.51.48%E2%80%AFPM.png)
 
-![Screenshot 2025-07-13 at 12.51.48 PM.png](..%2F..%2FDesktop%2FScreenshot%202025-07-13%20at%2012.51.48%E2%80%AFPM.png)
+<img width="352" height="760" alt="Screenshot 2025-07-13 at 12 51 16 PM" src="https://github.com/user-attachments/assets/d8bf8dec-a64d-4fce-b24b-026ba9de4549" />
+<img width="346" height="749" alt="Screenshot 2025-07-13 at 12 51 26 PM" src="https://github.com/user-attachments/assets/a7619373-2b29-443c-bd1c-b27090c5d434" />
+<img width="344" height="761" alt="Screenshot 2025-07-13 at 12 51 34 PM" src="https://github.com/user-attachments/assets/f194c10a-77fa-46f9-a113-f9aa40721cf2" />
+<img width="371" height="809" alt="Screenshot 2025-07-13 at 12 51 48 PM" src="https://github.com/user-attachments/assets/15cfaa8c-9a45-4e55-bab2-8ef9e3590837" />
 
-![Screenshot 2025-07-13 at 12.51.26 PM.png](..%2F..%2FDesktop%2FScreenshot%202025-07-13%20at%2012.51.26%E2%80%AFPM.png)
 
-![Screenshot 2025-07-13 at 12.51.16 PM.png](..%2F..%2FDesktop%2FScreenshot%202025-07-13%20at%2012.51.16%E2%80%AFPM.png)
-
-![Screenshot 2025-07-13 at 12.51.09 PM.png](..%2F..%2FDesktop%2FScreenshot%202025-07-13%20at%2012.51.09%E2%80%AFPM.png)
